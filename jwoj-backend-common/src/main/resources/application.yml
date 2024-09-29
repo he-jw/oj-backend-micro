@@ -1,0 +1,6 @@
+oj:
+  alioss:
+    endpoint: ${oj.alioss.endpoint}
+    access-key-id: ${oj.alioss.access-key-id}
+    access-key-secret: ${oj.alioss.access-key-secret}
+    bucket-name: ${oj.alioss.bucket-name}
